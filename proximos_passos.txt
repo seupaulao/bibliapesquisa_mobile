@@ -1,0 +1,77 @@
+--------------VERSAO 2.0-------------
+a. retirado textus receptus - será aberto um serviço para próxima versão
+b. retirado deuterocanonicos - não encontrei em português com domínio público
+c. retirado ads banner - problema de ficar no meio da tela
+d. acrescentado 2 biblias : Biblia Frances e Reino Valera (Espanhol)
+e. acrescentado 2 idiomas : espanhol e frances
+f. acrescentado internacionalização para 2200 palavras em ingles, espanhol e frances no dicionario
+g. corrigido plano de estudos
+h. acrescentado funcionalidade de passar a pagina por swipe (deslizar dedo) no plano de estudo
+i. fixado menu de topo na leitura
+
+--------------VERSAO 3.0-------------
+a. serviço : referencia cruzada de passagens
+b. serviço : busca numeros strong (significado/classe gramatical/texto original/texto transliterado)
+   - textus receptus por serviço
+   - abrir base interlinear e colocar serviço
+c. 8000 palavras ingles, frances, espanhol, portugues no dicionario
+d. biblia narrada em portugues
+e. serviço: imagem + verso
+
+----------------------------------------------------------
+
+OK 1. TEXTUS RECEPTUS        : retirar (WLC)
+
+OK 2. DEUTEROCANONICOS       : retirar
+
+OK 3. retirar versões        : NVI, ACF, AA, KJV
+
+OK 4. retirar CONCORDANCIA  e suas telas
+
+OK 6. retirar propaganda banner
+
+OK 9. QUADRO LIVROS : colocar por nomes dos livros
+
+OK 10. PESQUISAR : realizar pesquisas em cima de cada idioma
+
+OK 8b. DICIONARIO BUSCA : buscar nos 2 dicionarios e mostrar os resultados
+
+OK 14. LEITURA:
+       OK  - gravar último capitulo aberto
+       OK  - refatorar leitura JS para integrar internacionalização
+       OK  - relação livros - nome completo dos livros
+       OK  - relação abreviação tela leitura - abreviatura de 3 caracteres
+
+OK 7. INTERNACIONALIZAÇÃO
+       OK 1. aplicar versão
+              OK rvb - espanhol
+              OK fob - francês
+
+OK 5. INTERNACIONALIZAÇÃO - objetos
+   OK 1. novos icones para bandeiras (baixar)
+   OK 2. colocar bandeiras nas configurações
+   OK       - colocar em configurações
+
+OK 1. DICIONARIO
+   OK a. traduzir bases ou parte delas para en/es/fr
+   OK base1 - todas as palavras
+   OK   base2 - 1200 palavras
+           Ok - ingles
+           OK   - frances
+           OK   - espanhol
+
+OK 2. PLANO ESTUDO              :
+              OK MELHORAR A NAVEGACAO entre os dias de estudo
+              OK Usar swipe para passar entre os livros do dia, tal qual na leitura
+              OK Retirar os erros entre os dias de estudo
+
+OK 4. ADS
+                  OK - retirar banner
+                  OK - intersticial
+
+4. aplicar internacionalização em configurações
+
+5. TESTAR
+    a. testar todas as funcionalidades
+    b. testar responsividade
+    c. velocidade da carga inicial

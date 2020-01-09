@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="microfone-64.svg"
+   inkscape:export-filename="/home/paulojunior/Dropbox/pjlaapps/bibliapesquisa_mobile/img/MICROFONE-64.PNG"
+   inkscape:export-xdpi="101.66"
+   inkscape:export-ydpi="101.66">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.8845739"
+     inkscape:cx="-17.907001"
+     inkscape:cy="39.906855"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06665)">
+    <g
+       id="g27"
+       transform="matrix(2.0433001,0,0,2.0433001,-0.25865911,-309.5799)">
+      <g
+         transform="translate(-3.0783826,-0.12396171)"
+         id="g3748">
+        <circle
+           style="fill:#000000;stroke-width:0.26458332"
+           id="path3742"
+           cx="7.3240719"
+           cy="292.8576"
+           r="3.9977653" />
+        <circle
+           r="3.9357843"
+           cy="292.84961"
+           cx="7.3240719"
+           id="circle3744"
+           style="fill:#ffffff;stroke-width:0.26048124" />
+      </g>
+      <g
+         transform="matrix(0.9548387,0,0,0.80719798,0.1621507,56.588374)"
+         id="g3740">
+        <rect
+           style="fill:#000000;stroke-width:0.26458332"
+           id="rect27"
+           width="0.88839227"
+           height="2.2932918"
+           x="3.8324828"
+           y="294.74802"
+           ry="8.4917228e-06" />
+        <g
+           id="g25"
+           transform="translate(8.0781717,-0.867732)">
+          <ellipse
+             ry="3.0577223"
+             rx="3.1506939"
+             cy="293.61169"
+             cx="-3.8118227"
+             id="path14"
+             style="fill:#000000;stroke-width:0.26458332" />
+          <ellipse
+             style="fill:#ffffff;stroke-width:0.20900275"
+             id="ellipse16"
+             cx="-3.8014927"
+             cy="293.6427"
+             rx="2.5412154"
+             ry="2.3656027" />
+          <rect
+             ry="8.4917128e-06"
+             y="290.53333"
+             x="-7.0038366"
+             height="3.470928"
+             width="6.4046879"
+             id="rect20"
+             style="fill:#ffffff;stroke-width:0.23469034" />
+        </g>
+        <rect
+           style="fill:#000000;stroke-width:0.28022599"
+           id="rect12"
+           width="3.1816838"
+           height="5.3303533"
+           x="2.685837"
+           y="289.00446"
+           ry="1.7149835" />
+      </g>
+    </g>
+  </g>
+</svg>
