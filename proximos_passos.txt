@@ -8,6 +8,7 @@ f. acrescentado internacionalização para 2200 palavras em ingles, espanhol e f
 g. corrigido plano de estudos
 h. acrescentado funcionalidade de passar a pagina por swipe (deslizar dedo) no plano de estudo
 i. fixado menu de topo na leitura
+j. passar biblia pesquisa para react
 
 --------------VERSAO 3.0-------------
 a. serviço : referencia cruzada de passagens
@@ -19,6 +20,8 @@ d. biblia narrada em portugues
 e. serviço: imagem + verso
 
 ----------------------------------------------------------
+
+1. converter para react 
 
 OK 1. TEXTUS RECEPTUS        : retirar (WLC)
 
